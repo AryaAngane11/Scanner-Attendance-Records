@@ -1,0 +1,2 @@
+GIT COMMANDS
+git status  : Tells status of files (committed, untracked)
