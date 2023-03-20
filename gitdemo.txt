@@ -1,2 +1,4 @@
 GIT COMMANDS
-git status  : Tells status of files (committed, untracked)
+git status           : Tells status of files (committed, untracked, staged)
+git add FILENAME     : Adds untracked files to staged section(waiting to commit)
+git add -A           : Adds all untracked files to staged section
